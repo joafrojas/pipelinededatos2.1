@@ -1,9 +1,15 @@
 ## Estructura del proyecto
+
 pipeline_ingesta/
+
 ├── data/raw/ -> datos originales copiados
+
 ├── scripts/ -> scripts del pipeline
+
 ├── logs/ -> registros de ejecucion
+
 └── README.md
+
 
 
 
