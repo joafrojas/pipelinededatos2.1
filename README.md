@@ -1,3 +1,12 @@
+## Estructura del proyecto
+pipeline_ingesta/
+├── data/raw/ -> datos originales copiados
+├── scripts/ -> scripts del pipeline
+├── logs/ -> registros de ejecucion
+└── README.md
+
+
+
 # 1. ¿Qué es un Pipeline de Datos?
 
 Un pipeline de datos es un proceso automatizado que permite mover, limpiar, transformar y almacenar datos de manera eficiente. Piensa en él como una línea de producción: cada etapa asegura que la información llegue lista, confiable y lista para ser analizada.
