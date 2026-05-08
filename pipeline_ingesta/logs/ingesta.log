@@ -1,0 +1,12 @@
+2026-05-08 16:24:20,370 - INFO - Iniciando ingesta: datos_prueba.csv
+2026-05-08 16:24:20,371 - ERROR - [ERROR] No se encontró el archivo: datos_prueba.csv
+2026-05-08 16:24:43,115 - INFO - Iniciando ingesta: datos_prueba.csv
+
+2026-05-08 16:24:43,116 - ERROR - [ERROR] No se encontró el archivo: datos_prueba.csv
+2026-05-08 16:24:57,279 - INFO - Iniciando ingesta: datos_prueba.csv
+2026-05-08 16:24:57,279 - ERROR - [ERROR] No se encontró el archivo: datos_prueba.csv
+2026-05-08 16:25:07,420 - INFO - Iniciando ingesta: datos_prueba.csv
+2026-05-08 16:25:07,421 - ERROR - [ERROR] No se encontró el archivo: datos_prueba.csv
+2026-05-08 16:25:29,380 - INFO - Iniciando ingesta: datos_prueba.csv
+2026-05-08 16:25:29,382 - INFO - [OK] Archivo copiado a: data/raw\datos_prueba_20260508_162529.csv
+2026-05-08 16:25:29,382 - INFO - Ingesta completada.
